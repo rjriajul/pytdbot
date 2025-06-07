@@ -1,5 +1,6 @@
 from pytdbot import Client, filters, types, utils
-import logging, asyncio
+import logging
+import asyncio
 
 logging.basicConfig(
     level=logging.INFO,

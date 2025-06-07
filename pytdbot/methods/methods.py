@@ -1,6 +1,5 @@
 from typing import List, Union
 
-import pytdbot
 
 from ..types import (
     ChatTypeSupergroup,
